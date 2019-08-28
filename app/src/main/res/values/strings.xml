@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TMR</string>
+    <string name="sensor_monitoring_msg">Monitorando sensores.\nVocê pode minimizar o aplicativo agora.</string>
 </resources>
